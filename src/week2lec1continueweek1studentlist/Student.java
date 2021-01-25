@@ -7,7 +7,7 @@ package week2lec1continueweek1studentlist;
 
 /**
  *
- * @author Dang
+ * @author Dang jan 2021
  */
 public class Student {
     private String name;
