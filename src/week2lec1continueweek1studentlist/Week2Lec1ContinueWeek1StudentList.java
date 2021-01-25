@@ -9,8 +9,8 @@ public class Week2Lec1ContinueWeek1StudentList {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         //String[] students = new String[3]; //this creates an array of strings NOT of Students
-        Student[] students = new Student[3];
+         //String[] students = new String[2]; //this creates an array of strings NOT of Students
+        Student[] students = new Student[2];
         
         System.out.println("Enter Student names");
         
